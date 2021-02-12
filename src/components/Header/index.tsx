@@ -5,7 +5,7 @@ import { Container } from './styles';
 const Header: React.FC = () => {
   return (
     <Container>
-      Cringe
+      Header
     </Container>
   );
 }
