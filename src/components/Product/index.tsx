@@ -48,6 +48,8 @@ const WarrancySection = () => (
         <p className="description">sem garantia</p>
       </span>
     </div>
+
+    <a href="#">Saiba mais sobre garantia</a>
   </Section>
 )
 
